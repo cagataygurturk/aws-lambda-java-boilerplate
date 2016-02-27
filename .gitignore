@@ -14,3 +14,6 @@
 
 # JIRA plugin
 atlassian-ide-plugin.xml
+
+aws
+target
