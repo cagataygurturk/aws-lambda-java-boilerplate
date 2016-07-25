@@ -30,6 +30,6 @@ As you can see in `pom.xml`, "-Denv=production" activates production profile and
 
 You can upload the created JAR folder to AWS Lambda console. Handler function should be configured to `com.cagataygurturk.example.lambda.MainHandler`.
  
-## Planned features
+## More about the topic
 
-- A tool like [Serverless](http://www.serverless.com) that will use Cloudformation and Maven for Lambda and API Gateway deployments is under development.
+- Check out [Lambada Framework](https://github.com/lambadaframework/lambadaframework) for seamless AWS Lambda and JAVA integration.
